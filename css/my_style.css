@@ -1,0 +1,55 @@
+body{
+    margin: auto;
+}
+
+form{
+    margin: auto;
+}
+
+#form-center{
+    margin: 50px 200px;
+}
+
+.input-width-md{
+    width: 400px;
+}
+
+.bg-img{
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.custom {
+    width: 100px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 10%;
+}
+
+div.grid-test{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div.item{
+    margin-right: 20px;
+}
+
+
+
+
+
